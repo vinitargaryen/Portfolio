@@ -232,12 +232,13 @@ header a {
     margin-left: 40px;
     margin-right: 40px;
     width: auto;
+    justify-content: space-between;
 }
 .project {
  display: flex;
  flex-direction: column;
  box-sizing: border-box;
- width: 461px;
+ width: 500px;
  background-color: #302F3D;
  border-radius: 20px;
  padding: 30px;
